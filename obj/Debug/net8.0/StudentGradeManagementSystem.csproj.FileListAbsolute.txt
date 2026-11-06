@@ -1,0 +1,15 @@
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.exe
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.deps.json
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.runtimeconfig.json
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.dll
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\bin\Debug\net8.0\StudentGradeManagementSystem.pdb
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.AssemblyInfoInputs.cache
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.AssemblyInfo.cs
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.sourcelink.json
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.dll
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\refint\StudentGradeManagementSystem.dll
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.pdb
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\StudentGradeManagementSystem.genruntimeconfig.cache
+C:\Users\PUP-CITE-L1PC23\Source\Repos\StudentGradeManagementSystem\obj\Debug\net8.0\ref\StudentGradeManagementSystem.dll
